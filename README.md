@@ -7,3 +7,4 @@ Welcome to the reactiverse, a community of Eclipse Vert.x related projects maint
 * [Reactive PG client](/reactive-pg-client) 
 * [ES4x](/es4x)
 * [Eclipse Vert.x Maven Plugin](/vertx-maven-plugin)
+* [Reactive Contexts](/reactive-contexts)
