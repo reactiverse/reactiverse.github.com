@@ -17,4 +17,4 @@ All projects are maintained by the community, and we welcome both contributions 
 
 ## Governance
 
-The governance (including how to propose a new project) can be found at https://github.com/reactiverse/reactiverse/.
+The governance (including how to propose a new project) can be found at [https://github.com/reactiverse/reactiverse/](https://github.com/reactiverse/reactiverse/).
