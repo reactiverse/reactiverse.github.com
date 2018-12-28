@@ -12,6 +12,7 @@ All _reactiverse_ projects share the Maven group identifier `io.reactiverse`.
 * [ES4x](/es4x)
 * [Eclipse Vert.x Maven Plugin](/vertx-maven-plugin)
 * [Reactive Contexts](/reactive-contexts)
+* [Elasticsearch client](/elasticsearch-client)
 
 All projects are maintained by the community, and we welcome both contributions and new project proposals.
 
