@@ -8,7 +8,6 @@ All _reactiverse_ projects share the Maven group identifier `io.reactiverse`.
 
 ## Current Projects
 
-* [Reactive PG client](/reactive-pg-client)
 * [ES4x](/es4x)
 * [Eclipse Vert.x Maven Plugin](/vertx-maven-plugin)
 * [Reactive Contexts](/reactive-contexts)
