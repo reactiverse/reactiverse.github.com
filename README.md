@@ -14,6 +14,7 @@ All _reactiverse_ projects share the Maven group identifier `io.reactiverse`.
 * [Reactive Contexts](/reactive-contexts)
 * [Elasticsearch client](/elasticsearch-client)
 * [Consul Cluster Manager](/consul-cluster-manager)
+* [AWS SDK](/aws-sdk)
 
 All projects are maintained by the community, and we welcome both contributions and new project proposals.
 
