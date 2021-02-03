@@ -15,6 +15,7 @@ All _reactiverse_ projects share the Maven group identifier `io.reactiverse`.
 * [Consul Cluster Manager](/consul-cluster-manager)
 * [AWS SDK](/aws-sdk)
 * [Reactiverse Vert.x JUnit5 extensions](/reactiverse-junit5-extensions)
+* [Reactiverse Contextual Logging](/reactiverse-contextual-logging)
 
 All projects are maintained by the community, and we welcome both contributions and new project proposals.
 
