@@ -10,12 +10,13 @@ All _reactiverse_ projects share the Maven group identifier `io.reactiverse`.
 
 * [ES4x](/es4x)
 * [Eclipse Vert.x Maven Plugin](/vertx-maven-plugin)
-* [Reactive Contexts](/reactive-contexts)
 * [Elasticsearch client](/elasticsearch-client)
 * [Consul Cluster Manager](/consul-cluster-manager)
 * [AWS SDK](/aws-sdk)
-* [Reactiverse Vert.x JUnit5 extensions](/reactiverse-junit5-extensions)
 * [Reactiverse Contextual Logging](/reactiverse-contextual-logging)
+* [Neo4J client](/neo4j-client)
+* [Opensearch client](https://github.com/reactiverse/opensearch-client)
+* [Pinot client](https://github.com/reactiverse/pinot-client)
 
 All projects are maintained by the community, and we welcome both contributions and new project proposals.
 
