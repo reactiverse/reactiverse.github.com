@@ -8,6 +8,7 @@ All _reactiverse_ projects share the Maven group identifier `io.reactiverse`.
 
 ## Current Projects
 
+* [Reactiverse Child Process](/reactiverse-child-process)
 * [ES4x](/es4x)
 * [Eclipse Vert.x Maven Plugin](/vertx-maven-plugin)
 * [Elasticsearch client](/elasticsearch-client)
